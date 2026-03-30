@@ -11,4 +11,4 @@ done
 
 if [ -d $DIR ]; then
      echo "Already exist"
-    fi
+fi
